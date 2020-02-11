@@ -74,8 +74,6 @@ class calculations {
       display.textContent = this.display;
       equation.textContent = this.equation;
     }
-    // Removes synthetic event from the pool and allow references to the event to be retained by user code
-    //e.persist();
     e.preventDefault();
   }
 
@@ -183,8 +181,6 @@ class calculations {
       display.textContent = this.display;
       equation.textContent = this.equation;
     }
-    // Removes synthetic event from the pool and allow references to the event to be retained by user code
-    //e.persist();
     e.preventDefault();
   }
 
@@ -253,8 +249,6 @@ class calculations {
       display.textContent = this.display;
       equation.textContent = this.equation;
     }
-    // Removes synthetic event from the pool and allow references to the event to be retained by user code
-    //e.persist();
     e.preventDefault();
   }
 
